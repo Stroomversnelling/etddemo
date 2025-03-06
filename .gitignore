@@ -1,6 +1,5 @@
 # Data, output, log and configuration files
 *.csv
-*.html
 *.parquet
 *.yml
 *.yaml
